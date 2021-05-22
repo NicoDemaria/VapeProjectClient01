@@ -47,10 +47,9 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 
 /*foods*/
-#works figcaption a{border:1px solid #fff;margin-top: 1em;display: inline-block;color: #fff;padding: 0 2em;}
+#works figcaption a{border:1px solid #fff;margin-top: 1em;display: inline-block;color: #fff;padding: 0 2em; }
 #works figcaption a:hover{text-decoration: none;padding: 0 3em;}
 /*foods*/
-
 /*testimonials*/
 .testimonails{min-height: 195px;}
 .testimonails img{margin-top: 5px;}
@@ -58,6 +57,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .testimonails span b{font-weight: 400;}
 .carousel-indicators li{border: 1px solid #ccc;}
 .carousel-indicators{bottom: 0;}
+
 
 
 
